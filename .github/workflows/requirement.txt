@@ -1,0 +1,6 @@
+datetime
+pytest-playwright
+pandas
+google-cloud
+python-docx
+pytest
